@@ -1,4 +1,4 @@
 <?php
 	$str = 'abc';
-	echo $str[3];
+	echo $str[2];
 ?>
